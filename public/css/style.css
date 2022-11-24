@@ -1,5 +1,5 @@
 body{
-    margin: auto;
+    margin: 0px;
 }
 .email{
     display: flex;
@@ -27,6 +27,19 @@ body{
     justify-content: space-around;
     padding: 10px;
 }
+ul {
+    
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+
+a {
+
+    padding: 15px;
+}
 .btn{
     background-color: rgb(47, 255, 200);
 }
@@ -39,30 +52,32 @@ body{
 }
 .para1{
     text-align: center;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 55px;
+    margin-right: 55px;
 }
 .ul{
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 55px;
+    margin-right: 55px;
 }
 .titre2{
     text-align: center;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 55px;
+    margin-right: 55px;
     font-size:x-large;
     padding-top: 35px;
 }
 .para2{
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 55px;
+    margin-right: 55px;
     padding-bottom: 50px;
 }
 footer{
+    height: 300px;
     background-color: darkgray;
     margin: auto;
 }
 .réseaux{
+    list-style: none;
     display: flex;
     justify-content: space-around;
 }
@@ -71,4 +86,5 @@ footer{
     display: flex;
     justify-content: center;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
