@@ -1,0 +1,16 @@
+.email{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(155, 61, 144);
+    color: white;
+    margin: auto;    
+}
+.texte-email{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bouton{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(47, 255, 200);
+}
