@@ -21,6 +21,7 @@ body{
     height: 50px;
 }
 .navbar{
+    list-style-type: none;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -34,6 +35,26 @@ body{
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size: x-large;
 }
-
-
+.para1{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.ul{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.titre2{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size:x-large;
+    padding-top: 35px;
+}
+.para2{
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 50px;
+}
