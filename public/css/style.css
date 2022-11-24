@@ -1,3 +1,6 @@
+body{
+    margin: auto;
+}
 .email{
     display: flex;
     justify-content: center;
@@ -14,3 +17,23 @@
     margin-bottom: 15px;
     background-color: rgb(47, 255, 200);
 }
+.image{
+    height: 50px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.btn{
+    background-color: rgb(47, 255, 200);
+}
+.titre{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
